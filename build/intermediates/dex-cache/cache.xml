@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\classes-9ad2bae3899efee77d80c79bce4dc505e51f2bcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\TALIS-PC\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-97e258fccdc8c6c6827e577e2c9b87e56ce3b416.jar" />
+    </item>
+    <item
+        jar="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-aeff79df50cfe18dbeeba7fe6bab23b7178d4849.jar" />
+    </item>
+    <item
+        jar="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\TALIS-PC\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\classes-b8786e6dc0bf9eeadf09ab2e777a8de9d7d871fa.jar" />
+    </item>
+
+</items>
